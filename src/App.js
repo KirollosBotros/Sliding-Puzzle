@@ -3,7 +3,7 @@ import Board from './Board.js'
 
 function App() {
   return (
-    <div className="puzzle-board">
+    <div>
       <Board/>
     </div>
   );
